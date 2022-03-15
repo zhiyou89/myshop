@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单评论",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

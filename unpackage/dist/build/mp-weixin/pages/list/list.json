@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "分类页",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/product-by-category",
+    "no-message-notice": "/components/no-message-notice/no-message-notice",
+    "no-message-ntice": "/components/no-message-notice/no-message-notice",
+    "loading": "/components/loading-view/product-loading",
+    "top-icon": "/components/gwh-backTopIcon/gwh-backTopIcon"
+  }
+}

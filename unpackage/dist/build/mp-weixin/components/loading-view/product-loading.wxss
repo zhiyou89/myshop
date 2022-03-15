@@ -1,0 +1,1 @@
+.product-loading{margin:30rpx 0}.product-loading .box{width:200rpx;margin:0 auto;display:-webkit-box;display:-webkit-flex;display:flex;text-align:center;font-size:24rpx}.product-loading .box image{padding-right:20rpx;height:40rpx;width:40rpx}

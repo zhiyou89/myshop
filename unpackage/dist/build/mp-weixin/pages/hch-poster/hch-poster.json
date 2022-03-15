@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分享",
+  "navigationBarBackgroundColor": "#ffffff",
+  "usingComponents": {
+    "hch-poster": "/components/hch-poster/hch-poster"
+  }
+}

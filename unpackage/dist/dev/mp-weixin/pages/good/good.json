@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "商品页",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "uni-goods-nav": "/components/uni-goods-nav/uni-goods-nav",
+    "m-swiper": "/components/swiper/swiper",
+    "recomment-goods-list": "/components/goods-list/recomment-goods-list",
+    "product-by-menu": "/components/goods-list/product-by-menu",
+    "top-icon": "/components/gwh-backTopIcon/gwh-backTopIcon"
+  }
+}

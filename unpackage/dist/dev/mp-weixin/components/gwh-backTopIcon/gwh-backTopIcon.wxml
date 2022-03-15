@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['top',['$event']]]]]}}" class="to-top" style="{{'display:'+(topState===true?'block':'none')+';'}}" bindtap="__e"><image src="https://youguan-1257044613.cos.ap-guangzhou.myqcloud.com/zhiding.png" mode="widthFix"></image></view>

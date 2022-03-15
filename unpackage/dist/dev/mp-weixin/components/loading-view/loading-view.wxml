@@ -1,0 +1,1 @@
+<block wx:if="{{initLoading}}"><view data-event-opts="{{[['touchmove',[['clear',['$event']]]]]}}" class="request-loading-view" catchtouchmove="__e"><view class="loading-view"><view class="loading"></view></view></view></block>

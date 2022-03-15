@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "友诚商城",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "hot-goods-list": "/components/hot-goods-list/hot-goods-list",
+    "contact": "/components/contact/contact",
+    "m-swiper": "/components/swiper/swiper",
+    "goods-list": "/components/goods-list/goods-list",
+    "hot-rank": "/components/hot-rank/hot-rank",
+    "no-message-ntice": "/components/no-message-notice/no-message-notice",
+    "nav-top": "/components/nav-top/nav-top",
+    "search-view": "/components/search/search",
+    "goods-navbar": "/components/nav/goods_navbar",
+    "product-by-category": "/components/goods-list/product-by-category",
+    "loading-view": "/components/loading-view/loading-view",
+    "loading": "/components/loading-view/product-loading",
+    "top-icon": "/components/gwh-backTopIcon/gwh-backTopIcon"
+  }
+}

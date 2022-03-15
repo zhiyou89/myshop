@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "菜谱页",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "menus": "/components/no-message-notice/no-message-notice",
+    "no-message-notice": "/components/no-message-notice/no-message-notice",
+    "search-view": "/components/search/search",
+    "no-message-ntice": "/components/search/search"
+  }
+}

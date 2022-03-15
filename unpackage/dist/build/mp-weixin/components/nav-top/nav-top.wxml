@@ -1,0 +1,1 @@
+<view class="location" style="{{'margin-left:'+(navLeft+'px')+';'+('margin-top:'+(navTop+'px')+';')+('line-height:'+(height+'px')+';')+('height:'+(height+'px')+';')+('color:'+(pageNameColor)+';')}}"><slot name="top-nav-content"></slot></view>

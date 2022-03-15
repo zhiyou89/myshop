@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/pay-success",
+    "pages/set-up/file",
+    "pages/address/address-add",
+    "pages/menu/menu",
+    "pages/list/list",
+    "pages/about-us/about-us",
+    "pages/hch-poster/hch-poster",
+    "pages/order/order-pay",
+    "pages/address/address",
+    "pages/cart/cart",
+    "pages/menu/menu-detail",
+    "pages/good/good",
+    "pages/address/address-edit",
+    "pages/menu/menu-collection-list",
+    "pages/set-up/set-up",
+    "pages/user/user-info",
+    "pages/search/search",
+    "pages/order/order",
+    "pages/reviews/reviews",
+    "pages/reviews/reviews-detail",
+    "pages/reviews/reviews-list",
+    "pages/order/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "友诚商城",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#EA4219"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#AB956D",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/shouye.png",
+        "selectedIconPath": "static/images/shouye-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "iconPath": "static/images/fenlei.png",
+        "selectedIconPath": "static/images/fenlei-active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/images/cart.png",
+        "selectedIconPath": "static/images/cart-active.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/about-us/about-us",
+        "iconPath": "static/images/us.png",
+        "selectedIconPath": "static/images/us-active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于收货地址定位"
+    }
+  },
+  "usingComponents": {}
+}

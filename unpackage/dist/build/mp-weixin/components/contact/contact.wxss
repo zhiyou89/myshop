@@ -1,0 +1,1 @@
+.contact{position:fixed;left:50rpx;bottom:200rpx;z-index:9999;opacity:.9}.contact button{width:60rpx;height:60rpx;line-height:50rpx;padding:0;margin:0;border-radius:50%}.contact button button::after{border:none}.contact button image{width:60rpx;height:60rpx}

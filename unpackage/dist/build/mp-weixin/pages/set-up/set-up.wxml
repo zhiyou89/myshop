@@ -1,0 +1,1 @@
+<view class="set-up"><view class="set-up-box"><view data-event-opts="{{[['tap',[['jumpTo',['$event']]]]]}}" bindtap="__e"><text>执照文件公示</text></view><navigator open-type="exit" target="miniProgram"><view><text>退出登录</text></view></navigator></view><view class="banben"><text>当前版本号：v1.1.0</text></view></view>

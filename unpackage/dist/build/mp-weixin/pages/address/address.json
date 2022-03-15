@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "收货地址列表",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

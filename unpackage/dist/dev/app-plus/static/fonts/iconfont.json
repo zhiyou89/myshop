@@ -1,0 +1,142 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "446615",
+      "name": "质量保证",
+      "font_class": "zhiliangbaozheng",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "485845",
+      "name": "1-",
+      "font_class": "1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "680955",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "712404",
+      "name": "左",
+      "font_class": "icon-arrow-left2",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "1249059",
+      "name": "联系我们",
+      "font_class": "lianxiwomen",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1977010",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3050508",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3591003",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "5147491",
+      "name": "温度",
+      "font_class": "app_icons--",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "5392466",
+      "name": "优价好货",
+      "font_class": "youjiahaohuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5901133",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "7289570",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7356292",
+      "name": "编辑",
+      "font_class": "bianji1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "9223046",
+      "name": "盾牌",
+      "font_class": "dunpai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9448538",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9810108",
+      "name": "分享",
+      "font_class": "fenxiang_2",
+      "unicode": "e52c",
+      "unicode_decimal": 58668
+    },
+    {
+      "icon_id": "11459720",
+      "name": "人民币",
+      "font_class": "renminbi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12175543",
+      "name": "下拉",
+      "font_class": "xiala1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "14046013",
+      "name": "加",
+      "font_class": "tianjia",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
